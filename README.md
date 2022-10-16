@@ -11,10 +11,7 @@ Time to learn from the best price predictive model by the reigning champions!
 
 ### Problem Statement
 
-1. How much should you pay for the price of a house in Ames?
-2. Which features appear to add the most value to a home?
-3. What neighbourhoods seem like they might be a good investment?
-
+1. What Drives The Price of a House? 
 ### EDA
 1. Fill Missing data to 0 from the Top 15 numerical features
 2. Remove 3 Outlier from Ground Living Area (Square Feet)\gr_liv_area variable
