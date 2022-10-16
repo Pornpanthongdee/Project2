@@ -1,5 +1,4 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
-by ([*Chalermchon Wongsopa*](https://github.com/Chalermchon1993)) & ([*Kantaphon Vareekasem*](https://github.com/Tatadektep)) 
 
 Welcome to Ames! 
 
