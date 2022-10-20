@@ -2,7 +2,6 @@
 
 Welcome to Ames! 
 
-Time to learn from the best price predictive model by the reigning champions!
 
 ### [Presentation Deck](https://docs.google.com/presentation/d/1AiquPq-KAoBhmREMpJ4l2SvBEIm2T-e8JAX1K-D3K78/edit#slide=id.g157cb8078b3_3_5)
 
